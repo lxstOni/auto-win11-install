@@ -6,7 +6,7 @@
 **use at your own risk**
 
 
-USERNAME: Administrator
+USERNAME: Admin
 
 
 PASSWORD: 12345678(Please change the password after install)
