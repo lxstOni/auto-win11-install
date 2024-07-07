@@ -5,6 +5,11 @@
 
 **use at your own risk**
 
+
 USERNAME: Administrator
+
+
 PASSWORD: 12345678(Please change the password after install)
+
+
 COMPUTER NAME: WINDOWS-PC
