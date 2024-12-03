@@ -4,7 +4,7 @@
 USERNAME: Admin
 
 
-PASSWORD: 12345678(Please change the password after install)
+PASSWORD: 12345678  (Please change the password after install)
 
 
 COMPUTER NAME: WINDOWS-PC
